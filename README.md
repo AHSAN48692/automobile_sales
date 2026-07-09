@@ -14,7 +14,7 @@ Geographical Leader: The USA stands out as the primary market with 0.48M in tota
 Sales Growth Trends: 2019 was the peak performance year, securing 47.3% of total lifetime sales, showing strong year over year momentum compared to 2018 (35.4%).
 
 ## 🛠️ Tech Stack & Skills Demonstrated
-Data Visualizations: Bar Charts, Donut Charts, KPI Cards, and Dynamic Tables.  [MySQL Queries File]()
+Data Visualizations: Bar Charts, Donut Charts, KPI Cards, and Dynamic Tables.  [MySQL Queries File](auto sql.sql)
 Interactive Features: Implemented Product and Country slicers alongside Year buttons for custom deep dives.
 Tools: Power BI Desktop, Power Query, Microsoft Excel.
 
