@@ -19,4 +19,4 @@ Interactive Features: Implemented Product and Country slicers alongside Year but
 Tools: Power BI Desktop, Power Query, Microsoft Excel.
 
 ## 📷 Dashboard Preview
-![Automobile Sales Dashboard](Screenshot of Dashboard.png)
+![Automobile Sales Dashboard](Dashboard-Screenshot.png)
