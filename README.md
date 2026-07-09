@@ -17,6 +17,7 @@ Sales Growth Trends: 2019 was the peak performance year, securing 47.3% of total
 Data Visualizations: Bar Charts, Donut Charts, KPI Cards, and Dynamic Tables.
 Interactive Features: Implemented Product and Country slicers alongside Year buttons for custom deep dives.
 Tools: Power BI Desktop, Power Query, Microsoft Excel, MYSQL.
+
  [MySQL Queries File](https://github.com/AHSAN48692/automobile_sales/blob/main/auto%20sql.sql)
 
 
